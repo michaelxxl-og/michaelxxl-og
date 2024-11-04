@@ -5,16 +5,15 @@ michaelxxl-og
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Mike.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
-## Contribution Snake 
-![snake gif](https://github.com/michaelxxl-og/michaelxxl-og/blob/output/github-snake.svg)
 
 ## Find me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/michael-quero/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/queromichael//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/michaelxxl)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](michaelqp26@gmail.com)
 
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelxxl-og)](https://github.com/anuraghazra/github-readme-stats)
+## Contribution Snake 
+![snake gif](https://github.com/michaelxxl-og/michaelxxl-og/blob/output/github-snake.svg)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=michaelxxl-og)  
+##
+![GitHub streak stats](https://streak-stats.demolab.com/?user=michaelxxl-og)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelxxl-og)](https://github.com/anuraghazra/github-readme-stats)  
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -54,9 +53,6 @@ michaelxxl-og
 - 🥅 Others:
 
     ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-    ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-    ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-    ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
     ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
     ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
     ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
