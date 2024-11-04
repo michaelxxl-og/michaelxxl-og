@@ -7,7 +7,7 @@ michaelxxl-og
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Mike.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
 ## Contribution Snake 
-
+![snake gif](https://github.com/michaelxxl-og/michaelxxl-og/blob/output/github-snake.svg)
 
 ## Find me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/michael-quero/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/queromichael//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/michaelxxl)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](michaelqp26@gmail.com)
